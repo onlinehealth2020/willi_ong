@@ -1,0 +1,7 @@
+#waveform > rect { fill: rgb(128, 128, 128); }
+#waveform > rect:nth-child(2) { animation-delay: 250ms; }
+#waveform > rect:nth-child(3) { animation-delay: 500ms; }
+#waveform > rect:nth-child(4) { animation-delay: 750ms; }
+#waveform > rect:nth-child(5) { animation-delay: 1000ms; }
+#waveform > rect:nth-child(6) { animation-delay: 1250ms; }
+#waveform > rect:nth-child(7) { animation-delay: 1500ms; }
